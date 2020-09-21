@@ -227,7 +227,7 @@
 			buildSettings = {
 				PRODUCT_BUNDLE_IDENTIFIER = com.florentpillet.NSLoggerSwift;
 				PRODUCT_NAME = NSLoggerSwift;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -236,7 +236,7 @@
 			buildSettings = {
 				PRODUCT_BUNDLE_IDENTIFIER = com.florentpillet.NSLoggerSwift;
 				PRODUCT_NAME = NSLoggerSwift;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
