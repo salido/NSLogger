@@ -361,6 +361,7 @@
 		DAAD0F9F1C4BE27B0042313D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.florentpillet.NSLogger;
 				PRODUCT_NAME = NSLogger;
 			};
@@ -369,6 +370,7 @@
 		DAAD0FA01C4BE27B0042313D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.florentpillet.NSLogger;
 				PRODUCT_NAME = NSLogger;
 			};
